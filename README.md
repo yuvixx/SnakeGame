@@ -12,7 +12,7 @@ Arrow Left: Move Left
 Arrow Right: Move Right
 
 
-### 🚀 How to Run
+## 🚀 How to Run
 
 1. Make sure you have Python 3.x installed.
 2. Run the game using:
@@ -20,15 +20,11 @@ Arrow Right: Move Right
 ```bash
 python main.py
 
-
-
-
-
-#### 📦 Requirements
+## 📦 Requirements
 No external libraries needed — uses only Python’s built-in modules.
 
 
-##### 💡 Features
+## 💡 Features
 
 Real-time keyboard control
 Snake grows on eating food
